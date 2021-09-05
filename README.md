@@ -13,6 +13,7 @@ YouTube lectures on Physics, only the serious stuff
     - Sir Douglas Rob Lectures, University of Aukland
 - [Fun to Imagine](https://www.youtube.com/watch?v=P1ww1IXRfTA) (1983)
 - [Feynman on Challenger](https://www.youtube.com/watch?v=4kpDg7MjHps) (June 1986)
+- [Dirac Memorial Lecture](https://www.youtube.com/watch?v=cKzzG5DS6V8) (1986)
     - CNN interview
 
 ## About Richard Feynman
