@@ -24,6 +24,40 @@ YouTube lectures on Physics, only the serious stuff
     - CNN interview
 - [Dirac Memorial Lecture](https://www.youtube.com/watch?v=cKzzG5DS6V8) (1986)
 
-## About Richard Feynman
+### About Richard Feynman
 
 - [Remembering Feynman: Reunion Weekend](https://www.youtube.com/watch?v=S0Q80twy11Q) (2015)
+
+## Leonard Susskind
+
+- [Quantum Entanglements Part 1 List 2006](https://www.youtube.com/playlist?list=PLA27CEA1B8B27EB67)
+- [Quantum Entanglements Part 3 List 2007](https://www.youtube.com/playlist?list=PL5F9D6DB4231291BE)
+- [Modern Physics: Classical Mecahnics 2007](https://www.youtube.com/playlist?list=PL189C0DCE90CB6D81)
+- [Modern Physics: Quantum Mechanics 2006](https://www.youtube.com/playlist?list=PLA27CEA1B8B27EB67)
+- [Modern Physics: Special Relativity](https://www.youtube.com/playlist?list=PLCCD6C043FEC59772)
+- [Modern Physics: Einsteins Theory List 2008](https://www.youtube.com/playlist?list=PL6C8BDEEBA6BDC78D)
+- [Modern Physics: Cosmology List 2009](https://www.youtube.com/playlist?list=PL888811AA667C942F)
+- [Modern Physics: Statistical Mechanics List 2009](https://www.youtube.com/playlist?list=PLB72416C707D85AB0)
+- [Particle Physics Basic Concepts List 2009](https://www.youtube.com/playlist?list=PLF363FFF951EC0673)
+- [Particle Theory Standard Model List 2010](https://www.youtube.com/playlist?list=PL8BCB4981DD1A0108)
+- [String Theory and M Theory List 2010](https://www.youtube.com/playlist?list=PL47F408D36D4CF129)
+- [Classical Mechanics List 2011](https://www.youtube.com/playlist?list=PL47F408D36D4CF129)
+- [Topics in String Theory List 2012](https://www.youtube.com/playlist?list=PL701CD168D02FF56F)
+- [Special Relativity List 2012](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA)
+- [General Relativity List 2012](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib)
+- [Theoretical Minimum: Quantum Mechanics List 2012](https://www.youtube.com/playlist?list=PL701CD168D02FF56F)
+- [Statistical Mechanics List 2013](https://www.youtube.com/playlist?list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0)
+- [Cosmology List 2013](https://www.youtube.com/playlist?list=PLpGHT1n4-mAuVGJ2E1uF9GSwLsx7p1xtm)
+- [Advanced Quantum Mechanics 2013](https://www.youtube.com/playlist?list=PLpGHT1n4-mAsmMxmSX0LCaXIXT2PmU85m)
+- [Quantum Complexity Inside Black Holes 2014](https://www.youtube.com/watch?v=FpSriHE1r4E&list=RDLV6OXdhV5BOcY&index=20)
+- Aspects of Eternal Inflation [Part 1](https://www.youtube.com/watch?v=18VfbG8ty18) [Part 2](https://www.youtube.com/watch?v=eXQXAawwfgI&list=RDLV6OXdhV5BOcY&index=17) [Part 3](https://www.youtube.com/watch?v=h8aPv5keW9s)
+- [Why is Time a One Way Street 2013](https://www.youtube.com/watch?v=h8aPv5keW9s)
+- [Gravity and Quantum Mechanics Seen Through the Holographic Lens (Dec, 9 2020)](https://www.youtube.com/watch?v=GCiF79_LQr8&list=RDLV6OXdhV5BOcY&index=15)
+- [The World as a Hologram](https://www.youtube.com/watch?v=2DIl3Hfh9tY&list=RDLV6OXdhV5BOcY&index=14)
+- ["ER = EPR" or "What's Behind the Horizons of Black Holes?"](https://www.youtube.com/watch?v=OBPpRqxY8Uw)
+- [Black Holes and Complexity | Lecture 1 ](https://www.youtube.com/watch?v=ZJcrJE23Sls&list=RDLVZJcrJE23Sls&start_radio=1)
+- [Complexity and Gravity](https://www.youtube.com/watch?v=6OXdhV5BOcY&list=RDLVZJcrJE23Sls&index=2)
+
+## Andew Ng
+
+- [Machine Learning List](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
