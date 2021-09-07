@@ -57,6 +57,7 @@ YouTube lectures on Physics, only the serious stuff
 - ["ER = EPR" or "What's Behind the Horizons of Black Holes?"](https://www.youtube.com/watch?v=OBPpRqxY8Uw)
 - [Black Holes and Complexity | Lecture 1 ](https://www.youtube.com/watch?v=ZJcrJE23Sls&list=RDLVZJcrJE23Sls&start_radio=1)
 - [Complexity and Gravity](https://www.youtube.com/watch?v=6OXdhV5BOcY&list=RDLVZJcrJE23Sls&index=2)
+- [Entanglement and Complexity: Gravity and Quantum Mechanics](https://www.youtube.com/watch?v=9crggox5rbc)
 
 ## Andew Ng
 
